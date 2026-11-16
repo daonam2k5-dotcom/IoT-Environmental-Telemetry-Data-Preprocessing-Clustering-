@@ -22,5 +22,5 @@ Implemented K-Means Clustering to autonomously profile the data. The optimal num
 - **Normal State:** Standard environmental baseline with average metrics.
 
 ## 5. Contact
-- **Author:** Đào Đức Nam
+- **Author:** Dao Duc Nam
 - **Email:** daonam2k5@gmail.com
